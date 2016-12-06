@@ -11,5 +11,5 @@ RUN \
     virtualenv \
     r-base \
     r-base-dev \
-    libpq-devel
+    libpq-dev
   
