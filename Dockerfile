@@ -10,5 +10,6 @@ RUN \
     python-pip \
     virtualenv \
     r-base \
-    r-base-dev
+    r-base-dev \
+    libpq-devel
   
