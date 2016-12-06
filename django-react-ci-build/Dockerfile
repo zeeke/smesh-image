@@ -9,7 +9,7 @@ RUN \
     python-pip \
     curl \
     libssl-dev \
-    libpq-devel
+    libpq-dev
 
 
 ENV NODE_VERSION 6.9.1
